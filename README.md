@@ -1,5 +1,6 @@
 # Little Lemon Restaurant food-Ordering App
 Little Lemon is a charming neighborhood bistro that serves simple food and classic cocktails in a lively but casual environment. The restaurant features a locally-sourced menu with daily specials.
+
 Little Lemon Restaurant require an iOS App for food Ordering that display the list of items that are available to order with filtering option. 
 
 ## Features
