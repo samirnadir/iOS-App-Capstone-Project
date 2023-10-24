@@ -14,7 +14,4 @@ Little Lemon Restaurant require an iOS App for food Ordering that display the li
 
 ## Simulation
 
-Uploading iOS App Simulation.mp4…
-
-
-
+https://github.com/samirnadir/iOS-App-Capstone-Project/blob/main/iOS%20App%20Simulation.mp4
